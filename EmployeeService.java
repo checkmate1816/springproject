@@ -1,8 +1,8 @@
-package com.zrz.crud.service;
+package com.zrz.thymleaf.service;
 
 import java.util.List;
 
-import com.zrz.crud.entity.Employee;
+import com.zrz.thymleaf.entity.Employee;
 
 public interface EmployeeService {
      
